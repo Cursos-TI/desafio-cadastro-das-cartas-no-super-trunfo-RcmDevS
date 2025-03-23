@@ -86,5 +86,3 @@ int main() {
     // Termina o programa
     return 0;
 }
-
-
